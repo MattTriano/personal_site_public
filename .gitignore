@@ -51,3 +51,4 @@ data/immigration/
 *.pdf
 *.pptx
 *.docx
+*.pickle
