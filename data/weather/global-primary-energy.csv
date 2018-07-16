@@ -1,4 +1,4 @@
-Entity,Code,Year,Coal (terawatt-hours),Solar (terawatt-hours),Crude oil (terawatt-hours),Natural gas (terawatt-hours),Traditional biofuels (terawatt-hours),Other renewables (terawatt-hours),Hydropower (terawatt-hours),Nuclear (terawatt-hours),Wind (terawatt-hours)
+Entity,Code,Year,Coal (terawatt-hours),Solar (terawatt-hours),Crude_oil (terawatt-hours),Natural_gas (terawatt-hours),Traditional_biofuels (terawatt-hours),Other_renewables (terawatt-hours),Hydropower (terawatt-hours),Nuclear (terawatt-hours),Wind (terawatt-hours)
 World,OWID_WRL,1800,97.2223,0,0,0,5555.555556,0,0,0,0
 World,OWID_WRL,1810,127.77788,0,0,0,5833.333333,0,0,0,0
 World,OWID_WRL,1820,152.7779,0,0,0,6111.111111,0,0,0,0
