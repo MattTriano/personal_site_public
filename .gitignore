@@ -45,6 +45,7 @@ gis/data/big/
 d3_maps/node_modules
 pandas_express/
 data/immigration/
+data/water_pumps
 
 *.PNG
 *.pkl
