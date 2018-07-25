@@ -46,6 +46,7 @@ d3_maps/node_modules
 pandas_express/
 data/immigration/
 data/water_pumps
+data/predict_sales
 
 *.PNG
 *.pkl
