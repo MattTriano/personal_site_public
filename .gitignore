@@ -18,7 +18,7 @@
 *.jar
 *.rar
 *.tar
-*.zip
+
 
 # Logs and databases #
 ######################
@@ -40,6 +40,7 @@ Thumbs.db
 ###################
 node_modules/
 data/raw_data/
+data/predict_sales
 maps/
 gis/data/big/
 d3_maps/node_modules
